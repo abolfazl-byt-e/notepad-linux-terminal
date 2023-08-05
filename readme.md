@@ -1,2 +1,2 @@
-<h3>notepad command line</h3>
-a python file work with files in python :)
+# Notepad App in Linux Terminal
+in python language and work with files.
